@@ -40,4 +40,4 @@ Feel free to explore the code and customize the animations to suit your preferen
 A big thank you to the awesome contributors who have helped make this project amazing:
 
 1. [FFUV](https://github.com/FFUV)
-   - Contributions: Colours, Left Click Ripple, README.MD .
+   - Contributions: Colours, Left Click Ripple, README.MD, Script Base.
