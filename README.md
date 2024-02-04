@@ -34,3 +34,10 @@ Ready to elevate your cursor game? Follow these simple steps to integrate the an
 3. Left-click, right-click, and experience the cursor animations!
 
 Feel free to explore the code and customize the animations to suit your preferences. Happy clicking!
+
+# Contributors ✨
+
+A big thank you to the awesome contributors who have helped make this project amazing:
+
+1. [FFUV](https://github.com/FFUV)
+   - Contributions: Colours, Left Click Ripple, README.MD .
